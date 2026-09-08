@@ -1,217 +1,131 @@
 <div align="center">
-<img src="VC%20Logo.png" alt="Vodka Client Logo" width="200">
+<img src="VC%20Logo.png" alt="Vodka Client" width="180">
 
 Vodka Client
 
-A Minecraft utility client built for builders, anarchy, PvP, and everyday gameplay.
+A Minecraft utility client for builders, anarchy, PvP, and Crystal PvP.
 
-Download •
-Source Code •
-Issues
+Releases •
+Issues •
+Source
 
 </div>
 
 ⸻
 
-About Vodka Client
+Vodka Client
 
-Vodka Client is a Minecraft utility client focused primarily on building and anarchy gameplay, while also providing tools for PvP, Crystal PvP, movement, exploration, and general quality-of-life improvements.
+Vodka Client is a Minecraft utility client built primarily for builders and anarchy players, while also providing tools for PvP, Crystal PvP, movement, exploration, and general utility.
 
-The goal of Vodka Client is to provide useful tools in a clean and simple client without making the interface unnecessarily complicated.
+The client is currently built for Fabric.
 
-Vodka Client is still under active development. Expect new modules, improvements, Minecraft version support, loader support, performance improvements, and other features as development continues.
+NeoForge support is something we hope to add in the future.
 
-⸻
+Quick download links
 
-Downloads
+Fabric	NeoForge
+1.21.11 Fabric	Coming in the future
+1.21.10 Fabric — Coming Soon	
+1.21.9 Fabric — Coming Soon	
+1.21.8 Fabric — Coming Soon	
+1.21.7 Fabric — Coming Soon	
+1.21.6 Fabric — Coming Soon	
+1.21.5 Fabric — Coming Soon	
+1.21.4 Fabric — Coming Soon	
+26.1 Fabric — Planned	
+26.2 Fabric — Planned	
 
-Official Vodka Client builds are available from the GitHub Releases page:
+Releases
 
-Download Vodka Client
+Official releases can be downloaded from the Vodka Client Releases page.
 
-Current Release
+Release	Minecraft	Loader	Download
+V1.0.0	1.21.11	Fabric	Download
+Coming Soon	1.21.10	Fabric	Not released
+Coming Soon	1.21.9	Fabric	Not released
+Coming Soon	1.21.8	Fabric	Not released
+Coming Soon	1.21.7	Fabric	Not released
+Coming Soon	1.21.6	Fabric	Not released
+Coming Soon	1.21.5	Fabric	Not released
+Coming Soon	1.21.4	Fabric	Not released
+Planned	26.1	Fabric	Not released
+Planned	26.2	Fabric	Not released
 
-	
-Version	V1.0.0
-Minecraft	1.21.11
-Loader	Fabric
-Status	Supported
+Version support
 
-Only download Vodka Client from the official Vodka Client GitHub organization or another source officially listed by the project.
+The current release of Vodka Client supports:
 
-⸻
+Minecraft 1.21.11 — Fabric
 
-Minecraft Version Support
+Support for the following Minecraft versions is coming next:
 
-Our current priority is expanding Vodka Client to additional Minecraft versions.
+* 1.21.10
+* 1.21.9
+* 1.21.8
+* 1.21.7
+* 1.21.6
+* 1.21.5
+* 1.21.4
 
-Minecraft Version	Fabric	NeoForge
-1.21.11	✅ Supported	❌ Not Available
-1.21.10	🔜 Coming Soon	📋 Planned
-1.21.9	🔜 Coming Soon	📋 Planned
-1.21.8	🔜 Coming Soon	📋 Planned
-1.21.7	🔜 Coming Soon	📋 Planned
-1.21.6	🔜 Coming Soon	📋 Planned
-1.21.5	🔜 Coming Soon	📋 Planned
-1.21.4	🔜 Coming Soon	📋 Planned
-26.1	📋 Planned	📋 Planned
-26.2	📋 Planned	📋 Planned
+After support for those versions is completed, we plan to work on:
 
-Version Roadmap
+* 26.1
+* 26.2
 
-CURRENT
-│
-└── Minecraft 1.21.11
-    └── Fabric ✓
-COMING SOON
-│
-├── 1.21.10
-├── 1.21.9
-├── 1.21.8
-├── 1.21.7
-├── 1.21.6
-├── 1.21.5
-└── 1.21.4
-AFTER 1.21.x SUPPORT
-│
-├── 26.1
-└── 26.2
-FUTURE
-│
-└── NeoForge Support
+The exact release order may change during development.
 
-Support may not necessarily release in this exact order. Compatibility issues, Minecraft updates, and development requirements may change the roadmap.
-
-⸻
-
-Mod Loader Support
+Loader support
 
 Fabric
 
-Fabric is currently the officially supported mod loader for Vodka Client.
-
-Current Vodka Client builds are developed and tested for Fabric.
+Fabric is currently the main and officially supported loader for Vodka Client.
 
 NeoForge
 
 NeoForge is not currently supported.
 
-We hope to add NeoForge support in the future after the Fabric versions of Vodka Client are stable.
-
-There is currently no guaranteed release date for NeoForge support.
-
-⸻
+We hope to add NeoForge support in the future after the Fabric versions are in a stable state.
 
 Features
 
-Vodka Client is designed to provide tools for several areas of Minecraft gameplay.
+Vodka Client is focused on giving players useful tools without filling the client with unnecessary clutter.
 
-Building
+Current and planned areas of the client include:
 
-Building is one of the primary focuses of Vodka Client.
-
-Our goal is to provide tools that make:
-
-* Large builds easier
-* Block placement faster
-* Repetitive building easier
-* Large-scale projects easier to manage
-* Navigation around projects easier
-* Building on anarchy servers more convenient
-
-More builder-focused modules are planned for future releases.
-
-Anarchy
-
-Vodka Client is designed with anarchy servers in mind.
-
-Features may assist with:
-
-* Building
-* Traveling
-* Exploration
-* Navigation
-* Inventory management
+* Building utilities
+* Large-scale building tools
+* Anarchy utilities
+* PvP
+* Crystal PvP
 * Movement
-* General utility
-* Quality-of-life improvements
+* Exploration
+* Inventory utilities
+* Quality-of-life modules
+* Client customization
+* Performance improvements
 
-PvP / Crystal PvP
-
-Vodka Client also provides and plans to expand tools for PvP and Crystal PvP.
-
-PvP is an important part of Vodka Client, but the client is not designed to be only a PvP client.
-
-Our goal is to balance PvP functionality with building, anarchy, movement, and utility features.
-
-Movement
-
-Movement modules are designed to make traveling and navigating Minecraft easier.
-
-More movement features will be added as development continues.
-
-Utility
-
-Vodka Client includes general utility and quality-of-life features intended to make Minecraft easier and more convenient to play.
-
-⸻
+Building is one of the main focuses of Vodka Client.
 
 Installation
 
-Requirements
+1. Install the correct version of Fabric Loader.
+2. Download Vodka Client from GitHub Releases.
+3. Place the Vodka Client .jar inside your Minecraft mods folder.
+4. Launch Minecraft using Fabric.
 
-For the current Vodka Client release:
+For the current release you need:
 
-Minecraft: 1.21.11
-Loader: Fabric
-Vodka Client: V1.0.0
+Minecraft 1.21.11
+Fabric
+Vodka Client V1.0.0
 
-Installing Vodka Client
+Building
 
-1. Install the appropriate version of Fabric Loader.
-2. Launch Minecraft with Fabric at least once.
-3. Download Vodka Client from the official GitHub Releases page.
-4. Find your Minecraft mods folder.
-5. Place the Vodka Client .jar inside the mods folder.
-6. Launch Minecraft using your Fabric installation.
-
-Mods Folder
-
-Windows
-
-%appdata%\.minecraft\mods
-
-Linux
-
-~/.minecraft/mods
-
-macOS
-
-~/Library/Application Support/minecraft/mods
-
-⸻
-
-Getting Started
-
-After installing Vodka Client, start Minecraft using the appropriate Fabric installation.
-
-Vodka Client should initialize automatically.
-
-You can then configure the modules and features you want to use.
-
-Because Vodka Client is still under active development, interfaces, module names, settings, configuration systems, and features may change between releases.
-
-⸻
-
-Building From Source
-
-Vodka Client uses Gradle.
-
-Clone the Repository
+Clone the repository:
 
 git clone https://github.com/Vodka-Client/Vodka-Client.git
 
-Enter the project directory:
+Enter the folder:
 
 cd Vodka-Client
 
@@ -221,179 +135,56 @@ Windows
 
 Linux / macOS
 
-chmod +x gradlew
 ./gradlew build
 
-After the build completes successfully, check the project’s build output directory for the compiled .jar.
-
-Development builds may contain unfinished features or bugs. For normal gameplay, using an official release is recommended.
-
-⸻
+Compiled builds can be found in the Gradle build output after a successful build.
 
 Development
 
 Vodka Client is actively being developed.
 
-Current and future development priorities include:
+Current priorities include:
 
-* Supporting Minecraft 1.21.4 through 1.21.10
-* Maintaining Minecraft 1.21.11 support
-* Adding Minecraft 26.1 support
-* Adding Minecraft 26.2 support
-* Adding more building modules
-* Improving existing modules
-* Expanding PvP and Crystal PvP tools
-* Adding additional movement features
-* Improving performance
-* Improving the user interface
-* Improving customization
-* Fixing bugs
-* Improving compatibility with other mods
-* Exploring NeoForge support
+* Minecraft 1.21.4–1.21.10 support
+* Improving 1.21.11
+* More builder modules
+* More anarchy utilities
+* More PvP and Crystal PvP modules
+* Performance improvements
+* UI improvements
+* Bug fixes
+* 26.1 support
+* 26.2 support
+* Future NeoForge support
 
-⸻
+Issues
 
-Planned Support
+Found a bug?
 
-Our general development roadmap is:
+Open an issue
 
-Stage 1 — Current Release
-
-Minecraft 1.21.11 — Fabric
-
-Stage 2 — 1.21.x Support
-
-Minecraft 1.21.4 through 1.21.10
-
-Stage 3 — Newer Minecraft Versions
-
-Minecraft 26.1
-Minecraft 26.2
-
-Stage 4 — Additional Loaders
-
-Explore and hopefully introduce NeoForge support.
-
-⸻
-
-Contributing
-
-Contributions, suggestions, and bug reports are welcome.
-
-If you encounter a bug, please include as much information as possible.
-
-Useful information includes:
+When reporting a problem, please include your:
 
 * Minecraft version
 * Vodka Client version
-* Fabric Loader version
-* Fabric API version, if applicable
+* Fabric version
 * Other installed mods
-* Steps to reproduce the problem
-* Crash report
-* Minecraft log
-* Screenshots, when useful
-
-Please check existing issues before opening a new issue to avoid duplicates.
-
-Open an Issue
-
-⸻
-
-Frequently Asked Questions
-
-What version of Minecraft does Vodka Client support?
-
-The current public release supports:
-
-Minecraft 1.21.11
-Fabric
-
-Does Vodka Client support Fabric?
-
-Yes.
-
-Fabric is currently the officially supported loader for Vodka Client.
-
-Does Vodka Client support NeoForge?
-
-Not currently.
-
-NeoForge support is something we hope to add in the future.
-
-Will Vodka Client support Minecraft 1.21.4 - 1.21.10?
-
-Yes.
-
-Support for Minecraft versions 1.21.4 through 1.21.10 is planned and is one of our next development priorities.
-
-Will Vodka Client support Minecraft 26.1?
-
-Yes, 26.1 support is planned after work on the additional 1.21.x versions.
-
-Will Vodka Client support Minecraft 26.2?
-
-Yes, 26.2 support is planned after the additional 1.21.x versions and 26.1.
-
-Is Vodka Client only for PvP?
-
-No.
-
-Vodka Client includes PvP and Crystal PvP functionality, but one of its primary focuses is building and utility, especially for anarchy Minecraft.
-
-Is Vodka Client finished?
-
-No.
-
-Vodka Client is actively being developed. Features may be added, removed, redesigned, or rewritten between releases.
-
-Where can I download Vodka Client?
-
-Official releases are available here:
-
-https://github.com/Vodka-Client/Vodka-Client/releases
-
-⸻
-
-Security
-
-Only download Vodka Client from official sources.
-
-Do not trust random .jar files claiming to be Vodka Client.
-
-The official repository is:
-
-https://github.com/Vodka-Client/Vodka-Client
-
-Official releases are available at:
-
-https://github.com/Vodka-Client/Vodka-Client/releases
-
-⸻
+* Crash report or log if available
 
 Disclaimer
 
-Vodka Client is an independent Minecraft modification.
+Vodka Client is an independent Minecraft modification and is not affiliated with Mojang Studios or Microsoft.
 
-Vodka Client is not affiliated with, endorsed by, sponsored by, or associated with Mojang Studios or Microsoft.
-
-Some multiplayer Minecraft servers may prohibit certain modifications or client features.
-
-You are responsible for following the rules of any server on which you use Vodka Client.
+Some multiplayer servers may restrict certain client modifications or features. You are responsible for following the rules of the servers you play on.
 
 ⸻
 
 <div align="center">
-<img src="VC%20Logo.png" alt="Vodka Client Logo" width="100">
+<img src="VC%20Logo.png" alt="Vodka Client" width="80">
 
 Vodka Client
 
-BUILD • EXPLORE • FIGHT • CREATE
-
-Built for Minecraft.
-
 Releases •
-Issues •
-Repository
+Issues
 
 </div>
